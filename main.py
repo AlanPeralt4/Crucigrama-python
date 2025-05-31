@@ -8,6 +8,6 @@ with open("palabras.json", "r", encoding="utf-8") as f:
 
 # Generar tablero y posiciones
 matriz, posiciones = generar_crucigrama(palabras_con_pistas)
-
+#hola basuras
 # Mostrar la GUI interactiva
 dibujar_crucigrama(matriz, posiciones, palabras_con_pistas)
