@@ -1,27 +1,32 @@
 [
   {
-    "pista": "Fruta amarilla rica en potasio",
+    "pista": "Fruta amarilla rica en potasio.",
     "respuesta": "PLATANO",
     "direccion": "H"
   },
   {
-    "pista": "Fruta tropical con corona",
+    "pista": "Fruta tropical con corona.",
     "respuesta": "PIÑA",
     "direccion": "V"
   },
   {
-    "pista": "Roja y usada en pasteles",
+    "pista": "Fruta roja y usada en pasteles.",
     "respuesta": "FRESA",
     "direccion": "H"
   },
   {
-    "pista": "Fruta verde o morada, común en vinos",
+    "pista": "Fruta verde o morada, común en vinos.",
     "respuesta": "UVA",
     "direccion": "V"
   },
   {
-    "pista": "Fruta cítrica de color naranja",
+    "pista": "Fruta cítrica de color naranja.",
     "respuesta": "NARANJA",
     "direccion": "H"
+  },
+  {
+    "pista": "Fruta grande con pulpa roja y semillas negras.",
+    "respuesta": "SANDIA",
+    "direccion": "V"
   }
 ]
